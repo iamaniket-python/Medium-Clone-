@@ -29,3 +29,6 @@ Authentication: JWT, bcrypt
 Environment: dotenv
 
 Other: CORS, Nodemon
+
+Author
+Aniket Shrivastava
